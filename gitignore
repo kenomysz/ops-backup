@@ -1,0 +1,7 @@
+*.o
+sop-backup
+KTEST
+*.pdf
+test*
+tmp
+*.sh
