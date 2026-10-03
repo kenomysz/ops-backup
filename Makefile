@@ -4,7 +4,7 @@ ifdef CI
 override CFLAGS=-std=c17 -Wall -Wextra -Wshadow -Werror -Wno-unused-parameter -Wno-unused-const-variable
 endif
 
-NAME=sop-backup
+NAME=ops-backup
 
 .PHONY: clean all
 
